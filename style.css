@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+}
+.body{
+    overflow-x: hidden;
+    
+    font-family: 'Bebas Neue', cursive;
+}
+.navbar-brand img{
+width: 50%;
+}
+.section-1-lf img{
+width: 80%;
+}
+.shoe-card{
+    border: 0;
+}
+.shoe-card-footer{
+    border: 0;
+    background-color: white;
+}
+.price{
+    color:#FA804C;
+    font-weight: 900;
+}
+.bg-photo{
+    background-color: #E5E5E5;
+    border-radius: 5%;
+}
+.shape-round{
+    border-radius:5%;
+    border: 0;
+    background-color: white;
+}
+.photo-shape{
+    width: 7.1rem;
+    height: 7.6rem;
+}
+.links a{
+    text-decoration: none;
+    color: black;
+    
+}
+.links a:hover{
+    color: #FA804C;
+}
+.lokjon img{
+    width: 100%;
+}
